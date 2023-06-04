@@ -1,4 +1,4 @@
-# Log
+# Sugar
 
 ![Sugar](https://github.com/Yrkki/cv-generator-life-logo/blob/master/favicon/cv-generator-life-sugar/favicon/favicon.ico?raw=true)
 
