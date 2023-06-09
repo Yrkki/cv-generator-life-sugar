@@ -4,7 +4,7 @@
 . "$scripts"/h1.sh b
 echo
 
-. "$scripts"/info.sh "$scriptDescription script starting..."
+. "$scripts"/info.sh "$scriptDescription ($scriptName) script starting..."
 echo
 
 . "$scripts"/pwd.sh
